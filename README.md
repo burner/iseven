@@ -2,7 +2,7 @@
 
 ![alt text](https://travis-ci.org/burner/iseven.svg)
 [![Coverage](https://codecov.io/gh/burner/iseven/branch/master/graph/badge.svg)](https://codecov.io/gh/burner/iseven)
-[![Latest version](https://img.shields.io/dub/v/dscanner.svg)](http://code.dlang.org/packages/iseven)
+[![Latest version](https://img.shields.io/dub/v/iseven.svg)](http://code.dlang.org/packages/iseven)
 
 
 ```d
