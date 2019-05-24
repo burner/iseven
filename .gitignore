@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/iseven
+iseven.so
+iseven.dylib
+iseven.dll
+iseven.a
+iseven.lib
+iseven-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"burner"
+	],
+	"copyright": "Copyright © 2019, burner",
+	"description": "Check if the input is an even integer",
+	"license": "LGPL3",
+	"name": "iseven"
+}
