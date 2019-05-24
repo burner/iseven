@@ -15,5 +15,5 @@ assert(!isEven(-1));
 assert( isEven(-2));
 ```
 
-More of a joke, but a nice example how to test a with different input types,
+More of a joke, but a nice example how to test with different input types,
 get the ci set up and other things.
